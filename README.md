@@ -1,2 +1,4 @@
-# veriyapilari-linkedlist
-bagli-liste-fonksiyonlari
+# DataStructures linkedlist
+Veri Yapıları Bağlı Liste Fonksiyonları
+
+Download an run ide.
